@@ -1,0 +1,6 @@
+framework module TestCorePod {
+  umbrella header "TestCorePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

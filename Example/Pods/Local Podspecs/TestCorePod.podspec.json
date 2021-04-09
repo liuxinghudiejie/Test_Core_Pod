@@ -1,0 +1,24 @@
+{
+  "name": "TestCorePod",
+  "version": "0.1.0",
+  "summary": "这是一个GCD工具",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liuxinghudiejie/Test_Core_Pod/blob/main/README.md",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xin": "394758747@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liuxinghudiejie/Test_Core_Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "TestCorePod/Classes/**/*",
+  "swift_version": "5.0"
+}
